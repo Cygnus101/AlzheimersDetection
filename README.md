@@ -1,4 +1,4 @@
-Alzeimers v1 to v4 deals with OASIS, v5 with ADNI
+Alzeimers v3 deals with OASIS, v5 with ADNI
 
 For the models: 
 

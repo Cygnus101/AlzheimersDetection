@@ -20,4 +20,4 @@ The trained models and associated checkpoints are hosted on Hugging Face and can
 
 - **Augmented ADNI Models and Checkpoints**
   ```bash
-  git clone https://huggingface.co/RajathRajesh12/Alzheimers1
+  git clone https://huggingface.co/RajathRajesh12/AlzheimersADNIAug

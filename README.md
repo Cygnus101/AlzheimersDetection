@@ -23,3 +23,4 @@ The trained models and associated checkpoints are hosted on Hugging Face and can
   git clone https://huggingface.co/RajathRajesh12/AlzheimersADNIAug
 
 Data used in the preparation of this article were obtained from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database (http://adni.loni.usc.edu).
+Data used in this study were obtained from the OASIS (“Open Access Series of Imaging Studies”) database (https://www.oasis-brains.org/).
